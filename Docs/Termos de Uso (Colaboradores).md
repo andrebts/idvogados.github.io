@@ -77,7 +77,7 @@ Como membro colaborador, você não irá:
 - Usar qualquer material ou informação, incluindo imagens ou fotografias, por meio da Plataforma de qualquer forma que infrinja os direitos autorais, marcas, patentes, segredos comerciais ou outro direito de propriedade de terceiros.
 - Enviar arquivos que contenham vírus, cavalos de Troia, worms ou qualquer outro programa similar que possa danificar o computador ou qualquer propriedade de outras pessoas.
 - Organizar ataques contra um servidor ou contra a própria Plataforma
-- Usar o Plataforma para pesquisas, concursos, esquemas de pirâmide, correntes, lixo eletrônico, spam ou qualquer mensagem repetida ou não solicitada (comercial ou não).
+- Usar a Plataforma para pesquisas, concursos, esquemas de pirâmide, correntes, lixo eletrônico, spam ou qualquer mensagem repetida ou não solicitada (comercial ou não).
 - Difamar, insultar, assediar, perseguir, ameaçar ou violar os direitos legais (tais como direitos de imagem e de privacidade) de outras pessoas.
 - Praticar qualquer ato de constrangimento, coação, ou que causem desconfortos físicos, mentais ou emocionais a terceiros, incluindo, porém não se limitando a: outros colaboradores, usuários, terceiros interessados em conhecer a plataforma.
 - Restringir ou inibir o acesso de qualquer usuário aos serviços, softwares e outros conteúdos do Plataforma.
