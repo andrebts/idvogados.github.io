@@ -63,7 +63,7 @@ Para o bom funcionamento da comunidade, algumas práticas são desejáveis do co
 
 ### A. Respeito a comunidade e a ideias diferentes da sua
 
-Antes de mais nada é necessário que você fique ciente de que, por se tratar de uma comunidade aberta (Open Source), você poderá entrar ideias diferentes da sua.
+Antes de mais nada é necessário que você fique ciente de que, por se tratar de uma comunidade aberta (Open Source), você poderá encontrar ideias diferentes da sua.
 
 É de fundamental importância para o **idvogados** que você respeite estas ideias. Debater ideias, conceitos e escopos são comportamentos bem-vindos, desde que estes não firam a intimidade e direito de livre expressão de outro colaborador.
 
